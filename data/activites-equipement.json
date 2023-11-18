@@ -1,0 +1,685 @@
+{
+    "total_count": 484,
+    "results": [
+        {
+            "identifiant": "LC42",
+            "id_dicom": "19491",
+            "nom": "Basilique Sainte-Clotilde",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "23b RUE LAS CASES",
+            "arrondissement": "75007",
+            "statut_ouverture": null,
+            "horaires_periode": "Les horaires étant susceptibles d'évoluer, merci de vous renseigner directement sur place.",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.319534413493618,
+                        48.85866730407006
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.319534413493618,
+                "lat": 48.85866730407006
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "BR89",
+            "id_dicom": null,
+            "nom": "Brumisateur Place de la Bastille",
+            "type": "Brumisateur",
+            "payant": "Non",
+            "adresse": "place de la Bastille",
+            "arrondissement": "75004",
+            "statut_ouverture": null,
+            "horaires_periode": "A partir du 12 juillet 2023",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.368808194396859,
+                        48.85326312838672
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.368808194396859,
+                "lat": 48.85326312838672
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "BR28",
+            "id_dicom": "<Nul>",
+            "nom": "Brumisateur Square du Docteur Grancher",
+            "type": "Brumisateur",
+            "payant": "Non",
+            "adresse": "9 rue de la Bidassoa",
+            "arrondissement": "75020",
+            "statut_ouverture": null,
+            "horaires_periode": "Horaires d'ouvertures du parc",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.394191518021849,
+                        48.86540331312464
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.394191518021849,
+                "lat": 48.86540331312464
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "LC100",
+            "id_dicom": null,
+            "nom": "Cathedrale Saint-Vladimir Le Grand",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "51  RUE SAINTS-PERES",
+            "arrondissement": "75006",
+            "statut_ouverture": null,
+            "horaires_periode": "Les horaires étant susceptibles d'évoluer, merci de vous renseigner directement sur place.",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.330968395289091,
+                        48.85471003474433
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.330968395289091,
+                "lat": 48.85471003474433
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "TB10",
+            "id_dicom": null,
+            "nom": "Terrain de boules Bassin de l'Arsenal",
+            "type": "Terrain de boules",
+            "payant": "Non",
+            "adresse": "53 boulevard de la Bastille",
+            "arrondissement": "75012",
+            "statut_ouverture": null,
+            "horaires_periode": null,
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3683411173950626,
+                        48.85002586193197
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3683411173950626,
+                "lat": 48.85002586193197
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "MU76",
+            "id_dicom": null,
+            "nom": "Bourse de Commerce - Pinault Collection",
+            "type": "Musée",
+            "payant": "Oui",
+            "adresse": "2 rue de Viarmes",
+            "arrondissement": "75001",
+            "statut_ouverture": "Ouvert",
+            "horaires_periode": null,
+            "horaires_lundi": "11h - 19h",
+            "horaires_mardi": "Fermé",
+            "horaires_mercredi": "11h - 19h",
+            "horaires_jeudi": "11h - 19h",
+            "horaires_vendredi": "11h - 21h",
+            "horaires_samedi": "11h - 21h",
+            "horaires_dimanche": "11h - 19h",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.342825057940865,
+                        48.8628015650387
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.342825057940865,
+                "lat": 48.8628015650387
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "BR32",
+            "id_dicom": "<Nul>",
+            "nom": "Brumisateur Square Emmanuel Fleury",
+            "type": "Brumisateur",
+            "payant": "Non",
+            "adresse": "40 rue Le Vau",
+            "arrondissement": "75020",
+            "statut_ouverture": "Ouvert",
+            "horaires_periode": "Horaires d'ouvertures du parc",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.411896651629755,
+                        48.87036364758979
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.411896651629755,
+                "lat": 48.87036364758979
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "LC58",
+            "id_dicom": "19481",
+            "nom": "Eglise Saint-Etienne du Mont",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "1  RUE SAINT-ETIENNE DU MONT",
+            "arrondissement": "75005",
+            "statut_ouverture": null,
+            "horaires_periode": "Les horaires étant susceptibles d'évoluer, merci de vous renseigner directement sur place.",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3482189109238645,
+                        48.846519424342496
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3482189109238645,
+                "lat": 48.846519424342496
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "LC71",
+            "id_dicom": null,
+            "nom": "Eglise Saint-Louis des Invalides",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "2  AV TOURVILLE",
+            "arrondissement": "75007",
+            "statut_ouverture": null,
+            "horaires_periode": "Les horaires étant susceptibles d'évoluer, merci de vous renseigner directement sur place.",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3125601181331064,
+                        48.85521864350548
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3125601181331064,
+                "lat": 48.85521864350548
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "OMP45",
+            "id_dicom": null,
+            "nom": "KIOSQUE A MUSIQUE PARC MONTSOURIS",
+            "type": "Ombrière pérenne",
+            "payant": "Non",
+            "adresse": "28 BOULEVARD JOURDAN",
+            "arrondissement": "75014",
+            "statut_ouverture": null,
+            "horaires_periode": "Horaires d'ouverture de l'espace vert",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3366238144489686,
+                        48.82221198459702
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3366238144489686,
+                "lat": 48.82221198459702
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "LC133",
+            "id_dicom": "19452",
+            "nom": "Eglise Saint-Pierre de Montmartre",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "2  RUE MONT CENIS",
+            "arrondissement": "75018",
+            "statut_ouverture": null,
+            "horaires_periode": "Les horaires étant susceptibles d'évoluer, merci de vous renseigner directement sur place.",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.342095305189352,
+                        48.886646208690514
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.342095305189352,
+                "lat": 48.886646208690514
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "BE8",
+            "id_dicom": null,
+            "nom": "Baignade estival Canal St-Martin",
+            "type": "Baignade extérieure",
+            "payant": "Non",
+            "adresse": "126 QUAI DE JEMMAPES",
+            "arrondissement": "75009",
+            "statut_ouverture": null,
+            "horaires_periode": "Du 09 juillet au 20 août 2023",
+            "horaires_lundi": "-",
+            "horaires_mardi": "-",
+            "horaires_mercredi": "-",
+            "horaires_jeudi": "-",
+            "horaires_vendredi": "-",
+            "horaires_samedi": "-",
+            "horaires_dimanche": "12h - 16h",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3637246382473145,
+                        48.87496805778098
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3637246382473145,
+                "lat": 48.87496805778098
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "LC143",
+            "id_dicom": "19445",
+            "nom": "Cathédrale Sainte-Croix de Paris des Arméniens",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "13 RUE DU PERCHE",
+            "arrondissement": "75003",
+            "statut_ouverture": null,
+            "horaires_periode": null,
+            "horaires_lundi": "Les horaires étant susceptibles d'évoluer, merci d",
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3607719538874448,
+                        48.861024288440674
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3607719538874448,
+                "lat": 48.861024288440674
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "OMP54",
+            "id_dicom": null,
+            "nom": "PERGOLA SQUARE DU DOCTEUR CALMETTE",
+            "type": "Ombrière pérenne",
+            "payant": "Non",
+            "adresse": "2 RUE JEAN SICARD",
+            "arrondissement": "75015",
+            "statut_ouverture": null,
+            "horaires_periode": "Horaires d'ouverture de l'espace vert",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.2972653682916295,
+                        48.82869165308516
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2972653682916295,
+                "lat": 48.82869165308516
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "OM13",
+            "id_dicom": null,
+            "nom": "Ombrière Rosa Parks 2",
+            "type": "Ombrière temporaire",
+            "payant": "Non",
+            "adresse": "Parvis Rosa Parks",
+            "arrondissement": "75019",
+            "statut_ouverture": null,
+            "horaires_periode": "Accès libre",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3743616337307505,
+                        48.89732936195487
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3743616337307505,
+                "lat": 48.89732936195487
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "MU78",
+            "id_dicom": "2894",
+            "nom": "Crypte archéologique de l'île de la Cité",
+            "type": "Musée",
+            "payant": "Oui",
+            "adresse": "PLACE JEAN-PAUL II",
+            "arrondissement": "75004",
+            "statut_ouverture": null,
+            "horaires_periode": "du 01/01/20 au 01/01/32",
+            "horaires_lundi": "-",
+            "horaires_mardi": "10h00 - 18h00",
+            "horaires_mercredi": "10h00 - 18h00",
+            "horaires_jeudi": "10h00 - 18h00",
+            "horaires_vendredi": "10h00 - 18h00",
+            "horaires_samedi": "10h00 - 18h00",
+            "horaires_dimanche": "10h00 - 18h00",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.348155469998319,
+                        48.853598576500445
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.348155469998319,
+                "lat": 48.853598576500445
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "MU5",
+            "id_dicom": "1519",
+            "nom": "Musée Municipal Cognacq-Jay",
+            "type": "Musée",
+            "payant": null,
+            "adresse": null,
+            "arrondissement": "75003",
+            "statut_ouverture": null,
+            "horaires_periode": "du 01/01/20 au 01/01/32",
+            "horaires_lundi": "-",
+            "horaires_mardi": "10h00 - 18h00",
+            "horaires_mercredi": "10h00 - 18h00",
+            "horaires_jeudi": "10h00 - 18h00",
+            "horaires_vendredi": "10h00 - 18h00",
+            "horaires_samedi": "10h00 - 18h00",
+            "horaires_dimanche": "10h00 - 18h00",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.36166915594337,
+                        48.85812434839949
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.36166915594337,
+                "lat": 48.85812434839949
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "PI19",
+            "id_dicom": "2941",
+            "nom": "Piscine Champerret",
+            "type": "Piscine",
+            "payant": "Oui",
+            "adresse": "36, boulevard de Reims",
+            "arrondissement": "75017",
+            "statut_ouverture": null,
+            "horaires_periode": "du 06/11/23 au 24/12/23",
+            "horaires_lundi": "11h30 - 13h30 / 17h00 - 20h30",
+            "horaires_mardi": "07h00 - 08h30 / 11h30 - 13h30 / 17h00 - 19h00",
+            "horaires_mercredi": "11h30 - 22h00",
+            "horaires_jeudi": "07h00 - 08h30 / 11h30 - 13h30 / 17h00 - 19h00",
+            "horaires_vendredi": "07h00 - 08h30 / 11h30 - 13h30 / 17h00 - 22h00",
+            "horaires_samedi": "08h00 - 18h00",
+            "horaires_dimanche": "08h00 - 18h00",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.295487774191768,
+                        48.88862099808648
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.295487774191768,
+                "lat": 48.88862099808648
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "PI5",
+            "id_dicom": "2948",
+            "nom": "Piscine Georges Hermant",
+            "type": "Piscine",
+            "payant": "Oui",
+            "adresse": "8-10, rue David d Angers",
+            "arrondissement": "75019",
+            "statut_ouverture": null,
+            "horaires_periode": "du 06/11/23 au 23/12/23",
+            "horaires_lundi": "07h00 - 08h30 / 12h00 - 14h00 / 17h00 - 20h00",
+            "horaires_mardi": "07h00 - 08h30 / 12h00 - 14h00 / 17h00 - 21h00",
+            "horaires_mercredi": "08h30 - 21h00",
+            "horaires_jeudi": "07h00 - 08h30 / 12h00 - 14h00 / 17h00 - 20h00",
+            "horaires_vendredi": "07h00 - 08h30 / 12h00 - 14h00 / 20h00 - 23h59",
+            "horaires_samedi": "08h30 - 19h00",
+            "horaires_dimanche": "08h30 - 19h00",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.389479392102617,
+                        48.8823623206823
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.389479392102617,
+                "lat": 48.8823623206823
+            },
+            "proposition_usager": "Non"
+        },
+        {
+            "identifiant": "LC28",
+            "id_dicom": null,
+            "nom": "Eglise Sainte-Marie Mediatrice",
+            "type": "Lieux de culte",
+            "payant": "Non",
+            "adresse": "48b BD SERURIER",
+            "arrondissement": "75019",
+            "statut_ouverture": null,
+            "horaires_periode": "Les horaires étant susceptibles d'évoluer, merci de vous renseigner directement sur place.",
+            "horaires_lundi": null,
+            "horaires_mardi": null,
+            "horaires_mercredi": null,
+            "horaires_jeudi": null,
+            "horaires_vendredi": null,
+            "horaires_samedi": null,
+            "horaires_dimanche": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.402700797160205,
+                        48.87921457718055
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.402700797160205,
+                "lat": 48.87921457718055
+            },
+            "proposition_usager": "Non"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+@font-face{
+    font-family: Nexa;
+    src: url(sources/fonts/Nexa-Heavy.ttf);
+    font-weight: 800;
+}
+
+body{
+    background: #fefefe;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nexa';
+}
+
+.header{
+    background-color: #5f259f;
+    font-size: 40px;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-align: center;
+    font-weight: 500;
+    box-shadow: 0px 0px 8px 4px#00000022;
+}
+
+.search-window{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 32px 0px;
+    left: calc(50% - 40vw);
+    width: 80vw;
+    height: 70vh;
+    box-shadow: 0px 0px 4px 4px#00000012 inset;
+    border-radius: 4px;
+}
+
+.form{
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    align-items: top;
+    flex-wrap: wrap;
+    gap: 36px;
+    width: 40%;
+    padding: 36px 0;
+}
+
+.textfield-form{
+    height: 40px;
+    border-radius: 4px;
+    border: solid 1px #00000056;
+}
+
+.button{
+    position: relative;
+    top: 20px;
+    left: 10%;
+    height: 40px;
+    color: #ffffff;
+    background-color: #5f259f;
+    font-family: 'Nexa';
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+}
+
+.button:hover{
+    color: #000000;
+    background-color: #efefef;
+}
+
+.window-fontaine{
+    display: flex;
+    top: 0;
+    background-color: red;
+}
+
+.window-activites-equipement{
+    display: none;
+    background-color: blue;
+}
+
+.window-espaces-verts{
+    display: none;
+    background-color: yellow;
+}
+
+.iframe-f{
+    display: block;
+}
+
+.iframe-a-e{
+    display: none;
+}
+
+.iframe-e-v{
+    display: none;
+}

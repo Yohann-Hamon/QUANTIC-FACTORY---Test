@@ -1,0 +1,565 @@
+{
+    "total_count": 1248,
+    "results": [
+        {
+            "gid": "450080519",
+            "type_objet": "BORNE_FONTAINE",
+            "modele": "GHM Ville de Paris",
+            "no_voirie_pair": null,
+            "no_voirie_impair": "53F",
+            "voie": "RUE SAINT BLAISE",
+            "commune": "PARIS 20EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.4079268493314174,
+                        48.85746019926778
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.4079268493314174,
+                "lat": 48.85746019926778
+            }
+        },
+        {
+            "gid": "450084801",
+            "type_objet": "BORNE_FONTAINE",
+            "modele": "GHM Ville de Paris",
+            "no_voirie_pair": "52F",
+            "no_voirie_impair": null,
+            "voie": "BOULEVARD DE LA BASTILLE",
+            "commune": "PARIS 12EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.369188224172648,
+                        48.851912113694624
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.369188224172648,
+                "lat": 48.851912113694624
+            }
+        },
+        {
+            "gid": "450081078",
+            "type_objet": "FONTAINE_2EN1",
+            "modele": "Fontaine Totem 2en1",
+            "no_voirie_pair": "2",
+            "no_voirie_impair": null,
+            "voie": "RUE LENINE",
+            "commune": "BAGNOLET",
+            "dispo": "NON",
+            "debut_ind": "2023-10-03T02:00:00+00:00",
+            "fin_ind": null,
+            "motif_ind": "FERMETURE HIVERNALE",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.4203066634642334,
+                        48.87003538064538
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.4203066634642334,
+                "lat": 48.87003538064538
+            }
+        },
+        {
+            "gid": "450085034",
+            "type_objet": "FONTAINE_2EN1",
+            "modele": "Fontaine Totem 2en1",
+            "no_voirie_pair": "8",
+            "no_voirie_impair": null,
+            "voie": "RUE D ESTIENNE D ORVES",
+            "commune": "BAGNOLET",
+            "dispo": "NON",
+            "debut_ind": "2023-10-03T02:00:00+00:00",
+            "fin_ind": null,
+            "motif_ind": "FERMETURE HIVERNALE",
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.4290608857924547,
+                        48.87069099937388
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.4290608857924547,
+                "lat": 48.87069099937388
+            }
+        },
+        {
+            "gid": "450072980",
+            "type_objet": "FONTAINE_ARCEAU",
+            "modele": "Fontaine Arceau",
+            "no_voirie_pair": "132",
+            "no_voirie_impair": null,
+            "voie": "AVENUE DE LA REPUBLIQUE",
+            "commune": "PARIS 11EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3865701662863548,
+                        48.862871629522246
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3865701662863548,
+                "lat": 48.862871629522246
+            }
+        },
+        {
+            "gid": "450072935",
+            "type_objet": "FONTAINE_ARCEAU",
+            "modele": "Fontaine Arceau",
+            "no_voirie_pair": null,
+            "no_voirie_impair": "3",
+            "voie": "PLACE DES PETITS PERES",
+            "commune": "PARIS 2EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3405775651673455,
+                        48.86631073571219
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3405775651673455,
+                "lat": 48.86631073571219
+            }
+        },
+        {
+            "gid": "450080583",
+            "type_objet": "FONTAINE_ARCEAU",
+            "modele": "Fontaine Arceau",
+            "no_voirie_pair": null,
+            "no_voirie_impair": "23",
+            "voie": "RUE DU CHEMIN VERT",
+            "commune": "PARIS 11EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.372709462826152,
+                        48.858461789912035
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.372709462826152,
+                "lat": 48.858461789912035
+            }
+        },
+        {
+            "gid": "450080592",
+            "type_objet": "FONTAINE_ARCEAU",
+            "modele": "Fontaine Arceau",
+            "no_voirie_pair": "2",
+            "no_voirie_impair": null,
+            "voie": "BOULEVARD ORNANO",
+            "commune": "PARIS 18EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3497809805616363,
+                        48.89169719276789
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3497809805616363,
+                "lat": 48.89169719276789
+            }
+        },
+        {
+            "gid": "450025361",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Wallace Bois",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "AVENUE DAUMESNIL",
+            "commune": "PARIS 12EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.425587493947359,
+                        48.83758128129668
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.425587493947359,
+                "lat": 48.83758128129668
+            }
+        },
+        {
+            "gid": "450072610",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "GHM Bois",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "PARC DE BELLEVILLE",
+            "commune": "PARIS 20EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.383320517943508,
+                        48.87131527466656
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.383320517943508,
+                "lat": 48.87131527466656
+            }
+        },
+        {
+            "gid": "450072305",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Particulier",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "AVENUE DE LA SIBELLE",
+            "commune": "PARIS 14EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3381046324628403,
+                        48.82641668057448
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3381046324628403,
+                "lat": 48.82641668057448
+            }
+        },
+        {
+            "gid": "450070519",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Ville de Paris Bois",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "AVENUE DE L HIPPODROME",
+            "commune": "PARIS 16EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.2446415681385727,
+                        48.858516430311006
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2446415681385727,
+                "lat": 48.858516430311006
+            }
+        },
+        {
+            "gid": "450072296",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Particulier",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "RUE DES ARBUSTES",
+            "commune": "PARIS 14EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.307890283573299,
+                        48.828595885419254
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.307890283573299,
+                "lat": 48.828595885419254
+            }
+        },
+        {
+            "gid": "450072433",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "GHM Bois",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "JARDIN DES SERRES D'AUTEUILS",
+            "commune": "PARIS 16EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.2529448229417404,
+                        48.84712747547777
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2529448229417404,
+                "lat": 48.84712747547777
+            }
+        },
+        {
+            "gid": "450072243",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "GHM Bois",
+            "no_voirie_pair": null,
+            "no_voirie_impair": "69",
+            "voie": "BOULEVARD ARAGO",
+            "commune": "PARIS 13EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3425519390323193,
+                        48.834295862527014
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3425519390323193,
+                "lat": 48.834295862527014
+            }
+        },
+        {
+            "gid": "450072529",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Particulier",
+            "no_voirie_pair": "40F",
+            "no_voirie_impair": null,
+            "voie": "RUE D AUBERVILLIERS",
+            "commune": "PARIS 18EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3659333283207085,
+                        48.88607499222949
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3659333283207085,
+                "lat": 48.88607499222949
+            }
+        },
+        {
+            "gid": "450071921",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "GHM Bois",
+            "no_voirie_pair": "8",
+            "no_voirie_impair": null,
+            "voie": "RUE DES RECOLLETS",
+            "commune": "PARIS 10EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.361930435370097,
+                        48.87551237301164
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.361930435370097,
+                "lat": 48.87551237301164
+            }
+        },
+        {
+            "gid": "450072390",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Particulier",
+            "no_voirie_pair": null,
+            "no_voirie_impair": "119",
+            "voie": "BOULEVARD LEFEBVRE",
+            "commune": "PARIS 15EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.2995284268688208,
+                        48.82956348051902
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.2995284268688208,
+                "lat": 48.82956348051902
+            }
+        },
+        {
+            "gid": "450072220",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "GHM Bois",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "PARC DE CHOISY",
+            "commune": "PARIS 13EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3604626695906537,
+                        48.82848669842355
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3604626695906537,
+                "lat": 48.82848669842355
+            }
+        },
+        {
+            "gid": "450072135",
+            "type_objet": "FONTAINE_BOIS",
+            "modele": "Bayard D1",
+            "no_voirie_pair": null,
+            "no_voirie_impair": null,
+            "voie": "SQUARE LOUIS MAJORELLE",
+            "commune": "PARIS 11EME ARRONDISSEMENT",
+            "dispo": "OUI",
+            "debut_ind": null,
+            "fin_ind": null,
+            "motif_ind": null,
+            "geo_shape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        2.3815524619334676,
+                        48.852030116126116
+                    ],
+                    "type": "Point"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 2.3815524619334676,
+                "lat": 48.852030116126116
+            }
+        }
+    ]
+}
