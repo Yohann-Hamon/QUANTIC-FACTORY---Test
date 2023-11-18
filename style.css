@@ -32,10 +32,10 @@ body{
     height: 70vh;
     box-shadow: 0px 0px 4px 4px#00000012 inset;
     border-radius: 4px;
+    overflow: hidden;
 }
 
 .form{
-    position: absolute;
     display: flex;
     justify-content: space-around;
     align-items: top;
@@ -43,12 +43,6 @@ body{
     gap: 36px;
     width: 40%;
     padding: 36px 0;
-}
-
-.textfield-form{
-    height: 40px;
-    border-radius: 4px;
-    border: solid 1px #00000056;
 }
 
 .button{
@@ -70,9 +64,12 @@ body{
 }
 
 .window-fontaine{
+    position: relative;
     display: flex;
     top: 0;
+    height: 90%;
     background-color: red;
+    overflow-y: scroll;
 }
 
 .window-activites-equipement{
@@ -95,4 +92,13 @@ body{
 
 .iframe-e-v{
     display: none;
+}
+
+.table-fontaine{
+    position: relative;
+    height: 90%;
+}
+
+.tab-box{
+    margin: 8px;
 }

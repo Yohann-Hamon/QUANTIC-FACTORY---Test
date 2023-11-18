@@ -25,14 +25,14 @@ foreach ($fontaines as $fontaine) {
 $select .= '</select>';
 
 
-$listeFontaines = '<table>';
+$listeFontaines = '<table class="table-fontaine">';
 if (isset ($_SESSION['commune'])) {
 
     foreach ($fontaines as $fontaine) {
         if ('PARIS 14EME ARRONDISSEMENT' == $fontaine['commune']) {
-            $listeFontaines .='<tr><th>'. $fontaine['voie'] . '</tr><th>' . $fontaine['commune'] .'</tr></tr>';
+            $listeFontaines .='<tr class="tab-box"><th>'. $fontaine['voie'] . '</tr><th class="tab-box">' . $fontaine['commune'] .'</tr></tr>';
         }else{
-            $listeFontaines .='<tr><th>' . $fontaine['voie'] . '</tr><th>' . $fontaine['commune'] .'</tr></tr>';
+            $listeFontaines .='<tr class="tab-box"><th>' . $fontaine['voie'] . '</tr><th class="tab-box">' . $fontaine['commune'] .'</tr></tr>';
         };
     };
 };
